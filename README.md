@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kishore Kumar Ojha
-- 🏢 Currently working as an ITSD / Noc Monitopring Engineer @ OoredoO , Oman.
+- 🏢 Currently working as an ITSD / Noc Monitoring Engineer @ OoredoO , Oman.
 - 👀 I’m interested in Tech Explore, Travelling, Cooking.......etc.
 - 🌱 I’m currently learning Full Stack Web Developement With WEB3.
 - 📫 How to reach me ... 👥https://www.linkedin.com/in/ojhakishore18/
